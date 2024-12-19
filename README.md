@@ -12,6 +12,6 @@ in C of maximum degree k? Denote the minimum by ∆(C) and set it to
 be ∞ if no such k exists.
 A graph class is proper if it does not contain all graphs. We prove that
 a minor-closed class C excludes an apex graph if and only if there ex-
-ists a proper minor-closed superclass C′ of C with ∆(C′) = 3. *This
+ists a proper minor-closed superclass C′ of C with ∆(C′) = 3. This
 complements a list of 5 other characterizations of the minor-closed classes
 excluding an apex graph by Dujmovic, Morin and Wood.
